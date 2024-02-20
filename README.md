@@ -1,23 +1,5 @@
-# Projeto Nº2: Época Normal 
-
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/c/c8/Log%C3%B3tipo_do_Politecnico_de_Setubal.png)
-
-## Inteligência Artificial 23/24
-
-* Prof. Joaquim Filipe
-* Eng. Filipe Mariano
 
 # Jogo do Cavalo (Knight's Tour)
-
-### Manual Técnico
-
- Realizado por:
-
- * Miguel Calha - 201902037
-
-  * João Dâmaso - 201901629 
-
-  * Marcos Jesus - 201900268 
 
 # Indíce 
 
